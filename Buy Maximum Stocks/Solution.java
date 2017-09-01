@@ -7,8 +7,8 @@ public class Solution {
 
         int day, price;
 
-        public Node(int index, int price) {
-            this.day = index;
+        public Node(int day, int price) {
+            this.day = day;
             this.price = price;
         }
 
